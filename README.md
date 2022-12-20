@@ -1,1 +1,1 @@
-# postgreSQL
+# A simple and unstable CRUD for test PostgreSQL with Typescript 🙈
